@@ -1,5 +1,5 @@
 {
-    "css": null,
+    "css": "https://raw.githubusercontent.com/Globe999/rcs-ccc/master/code2",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
