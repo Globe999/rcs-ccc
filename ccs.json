@@ -1,7 +1,7 @@
 {
     "room": "TheArchon",
     "author": "Globe_999",
-    "icon": "http://puu.sh/nCL60/d4d23f8aa4.jpg",
+    "icon": null,
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -31,7 +31,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
+        "host": "https://cdn.radiant.dj/rcs/icons/radiant/host.png",
         "cohost": null,
         "manager": null,
         "bouncer": null,
