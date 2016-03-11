@@ -36,7 +36,7 @@
         "manager": null,
         "bouncer": null,
         "rdj": null,
-        "subscriber": null,
+        "subscriber": "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
         "silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "emotes": {
