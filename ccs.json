@@ -1,7 +1,7 @@
 {
     "room": "TheArchon",
     "author": "Globe_999",
-    "icon": "http://i.picresize.com/images/2016/03/11/xBSLt.jpg",
+    "icon": null,
     "css": "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond": true,
